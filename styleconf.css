@@ -1,0 +1,32 @@
+/*Estilos gerais também*/
+body {
+    font-family: arial;
+    background-color: #fcf8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100%;
+}
+
+#conf {
+    text-align: center;
+    padding: 20px;
+    background-color: #f3f1f1;
+    border-radius: 10px;
+    box-shadow: 10px rgba(0, 0, 0, 0.212);
+}
+
+#conf a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#conf a:hover {
+    background-color: #22181C;
+}
